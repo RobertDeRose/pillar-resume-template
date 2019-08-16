@@ -1,0 +1,176 @@
+bio:
+  name: John Doe
+  title: An Awesome Developer
+  avatar: profile.jpg
+  email: john@doe.com
+  telephone: 012 345 6789
+  website: johndoe.blogger.com
+  linkedin: johndoe
+  github: johnnycoder
+  gitlab: johnnycoder
+  twitter: johnnytweeter
+  stackoverflow: 890226/johnnyststacker
+
+summary:
+  title: Career Profile
+  description: |
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+
+      Second paragraph if required.
+
+history:
+  title: Experience
+  roles:
+    - position: Lead Developer
+      company: Startup Hubs
+      location: San Francisco, CA
+      time: 2015 - Present
+      description: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+          - Bullet point
+          - Bullet point
+      technologies:
+        - name: Java
+        - name: Spring
+        - name: Tomcat
+        - name: MySQL
+
+    - position: Senior Software Engineer
+      # page_break: true
+      company: Google
+      location: London
+      time: 2014 - 2015
+      description: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+      technologies:
+        - name: Go
+        - name: Java
+        - name: Spring
+        - name: Kubernetes
+
+    - position: UI Developer
+      company: Amazon
+      location: London
+      time: 2012 - 2014
+      description: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+      technologies:
+        - name: JavaScript
+        - name: Vue.js
+        - name: Webpack
+        - name: MongoDB
+
+      achivements: |
+        Highlights here
+        * Thing 1
+        * Thing 2
+          - Sub Thing 1
+
+skills:
+  frontend:
+    - name: JavaScript
+      percentage: 70
+    - name: HTML5
+      percentage: 60
+    - name: Sass
+      percentage: 50
+  backend:
+    - name: Java 8
+      percentage: 100
+    - name: Bash
+      percentage: 95
+    - name: Python
+      percentage: 80
+    - name: Flask &amp; SQLAlchemy
+      percentage: 80
+    - name: Ruby
+      percentage: 50
+    - name: Go
+      percentage: 15
+    - name: Elixir
+      percentage: 10
+    - name: C/C++
+      percentage: 5
+
+  other:
+    - name: Linux (Debian &amp; Fedora variants)
+    - name: macOS
+    - name: Windows 10
+    - name: Sketch
+    - name: JIRA
+    - name: Scrum
+    - name: Docker
+    - name: Vagrant
+
+education:
+  - degree: MSc in Computer Science
+    name: University of London
+    time: 2011 - 2012
+    gpa: 3.21
+  - degree: BSc in Applied Mathematics
+    name: Bristol University
+    time: 2007 - 2011
+    gpa: 3.21
+
+awards:
+  - name: Apple Design Award 2017
+    description: |
+      UI Design for my cool app
+  - name: Best Coder 2019
+    description: Competition at a place
+
+languages:
+  - name: English
+    proficiency: Native
+  - name: French
+    proficiency: Professional
+  - name: Spanish
+    proficiency: Professional
+
+interests:
+  - name: Hiking
+    icon: fas fa-hiking
+  - name: Fishing
+    icon: fas fa-fish
+  - name: Cycling
+    icon: fas fa-biking
+
+
+organizations:
+  - name: Rotary
+    link: http://www.rotary.org
+    date: 2010
+
+  - name: Mainstreet
+    link: https://www.mainstreet.org
+    date: 2011
+
+  - name: Makers
+    date: 2014
